@@ -40,5 +40,6 @@ orcnty24_wallowa_P_wgs84utm11N|County Boundaries|https://www.arcgis.com/home/ite
 **Note:** I realize this is lots of datasets, but I consider all potentially very useful in "telling the story" of land management in Wallowa county. They will all need to be converted to WGS1984 (now projected in WGS84, UTM 11N).
 
 ## Graphic Display of Datasets
-It all looks very messy displayed at once, but I'm hoping to provide a series of data layers that the user can be turned off and on to explore data and data products.
+It all looks very messy displayed at once, but I'm hoping to provide a series of data layers that the user can be turned off and on to explore data and data products.  I have more that I can tap into if all goes well!
+
 ![](assets/wallowa-data.PNG)
