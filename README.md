@@ -35,7 +35,7 @@ lt_JulSep_NBRmean_1985to2017m_tritiles_wgs84utm11N_4class_0000_gain_loss_Prairie
 rmu_allotments_Wallowa|USFS Grazing Alltoments|https://data.fs.usda.gov/geodata/ |Wallowa Subset
 rmu_subunit_Wallowa|USFS Grazing Alltoments, Patures and Exclosures|https://data.fs.usda.gov/geodata/ |Wallowa Subset
 Parcels_12072015_WGS84UTMz11_WC|Tax Lot Data|https://www.oregon.gov/geo/pages/sdlibrary.aspx| Wallowa Subset
-orcnty24_wallowa_P_wgs84utm11N|County Boundary|Wallowa County Boundary|https://www.arcgis.com/home/item.html?id=170b74b3e15d49f59aa56ae51939542b| Wallowa Subset
+orcnty24_wallowa_P_wgs84utm11N|County Boundaries|https://www.arcgis.com/home/item.html?id=170b74b3e15d49f59aa56ae51939542b| Wallowa Subset
 
 **Note:** I realize this is lots of datasets, but I consider all potentially very useful in "telling the story" of land management in Wallowa county. They will all need to be converted to WGS1984 (now projected in WGS84, UTM 11N).
 
