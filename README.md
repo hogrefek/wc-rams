@@ -3,12 +3,12 @@
 
 > The goal of my PhD research is to create a Rangeland Assessment and Monitoring System for Wallowa County, Oregon: the WC-RAMS.  For Geog571, I propose that I create a web map that will be the “landing pad” (or at least a feature) for the website I need to create for the WC-RAMS that presents research to my collaborators, the Wallowa County community, and anyone else interested.  It will focus on the county’s general geography to orient the visitor, but then provide access to a series of data layers that “tell the story” of land use and resource management, both in the county and the greater region.  The data presentation will culminate by highlighting some products from the two computer models that comprise the core of the WC-RAMS, LandTrendr and PHYGROW/LEWS.  In addition to web served basemaps and vector layers to display basic information, I have a suite of shapefiles detailing management and property ownership in the county (that I’ll convert) to augment and help explain the habitat change trend data and biomass forecasts from the models.
 
-##Data Sources
+## Data Sources
 **Note:** I have multiple datasets that I've developed for basic geographic features (roads, lakes, rivers/streams, etc.) that I can use if needed, but I ought to be able to take care of these baseline data considerations through Mapbox.
 Name|Description|Url Link|Notes
 ----|-----------|--------|-----
 wallowa-base|Mapbox Basemap|TBD|Lab 4 Product
-dem10ne|National Elevation Dataset (NED): DEM|https://www.oregon.gov/geo/pages/sdlibrary.aspx|Original Dataset
+dem10ne|National Elevation Dataset (NED): DEM|https://www.oregon.gov/geo/pages/sdlibrary.aspx| Original Dataset
 dem10ne_WGS84utm11N|NED: DEM product|NA|Reprojected
 dem10ne_WGS84utm11N_h|NED: DEM product|N/A|Hillshade
 dem10ne_WGS84utm11N_Wallowa|NED:DEM product|N/A|Reprojected, Wallowa Subset
