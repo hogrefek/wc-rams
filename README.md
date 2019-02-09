@@ -1,4 +1,4 @@
-#The Wallowa County Rangeland Assessment and Monitoring System (WC-RAMS)
+#The Wallowa County Rangeland Assessment and Monitoring System (WC-RAMS)#
 ##Project Proposal:
 
 > The goal of my PhD research is to create a Rangeland Assessment and Monitoring System for Wallowa County, Oregon: the WC-RAMS.  For Geog571, I propose that I create a web map that will be the “landing pad” (or at least a feature) for the website I need to create for the WC-RAMS that presents research to my collaborators, the Wallowa County community, and anyone else interested.  It will focus on the county’s general geography to orient the visitor, but then provide access to a series of data layers that “tell the story” of land use and resource management, both in the county and the greater region.  The data presentation will culminate by highlighting some products from the two computer models that comprise the core of the WC-RAMS, LandTrendr and PHYGROW/LEWS.  In addition to web served basemaps and vector layers to display basic information, I have a suite of shapefiles detailing management and property ownership in the county (that I’ll convert) to augment and help explain the habitat change trend data and biomass forecasts from the models.
@@ -37,3 +37,7 @@ Parcels_12072015_WGS84UTMz11_WC|Tax Lot Data|https://www.oregon.gov/geo/pages/sd
 orcnty24_wallowa_P_wgs84utm11N|County Boundary|Wallowa County Boundary|https://www.arcgis.com/home/item.html?id=170b74b3e15d49f59aa56ae51939542b| Wallowa Subset
 
 **Note:** I realize this is lots of datasets, but I consider all potentially very useful in "telling the story" of land management in Wallowa county. They will all need to be converted to WGS1984 (now projected in WGS84, UTM 11N).
+
+##Graphic Display of Datasets
+It all looks very messy displayed at once, but I'm hoping to provide a series of data layers that the user can be turned off and on to explore data and data products.
+![](assets/wallowa-data.PNG)
